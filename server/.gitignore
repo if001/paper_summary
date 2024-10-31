@@ -1,0 +1,4 @@
+.env
+.paper_summary
+__pycache__
+*.pdf

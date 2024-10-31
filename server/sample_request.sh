@@ -1,0 +1,1 @@
+curl -X POST -F pdf_file=@phi3.pdf http://localhost:5000/summarize
